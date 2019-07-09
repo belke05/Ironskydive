@@ -168,6 +168,10 @@ h5 {
 
 /* section 3 */
 
+#team {
+  padding-bottom: 40px;
+}
+
 #team .section-text {
   font-size: 1.9em;
   text-align: center; 
@@ -183,6 +187,7 @@ h5 {
 #team p {
   width: 60%;
   margin: 10px auto;
+  padding-bottom: 10px;
 }
 
 #team hr {
